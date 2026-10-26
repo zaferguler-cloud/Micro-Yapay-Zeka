@@ -1,8 +1,6 @@
 # Micro-Yapay-Zeka
 
-Bu sayfada Öğr.Gör.Dr. Zafer Güler'in derslerine ait notlar ve materyaller yer almaktadır.
+Bu sayfada Mikro Yapay Zekâ dersinin notları ve materyalleri yer almaktadır.
 
-## Bölümler
-
-- **Mikro Yapay Zekâ** – Mikro Yapay Zekâ dersinin notları ve sunumları (bu ana sayfadaki dosyalar)
-- **[Avrupa Birliği – Türkiye İlişkileri](Avrupa-Birligi-Turkiye-Iliskileri/)** – SBF 305 Avrupa Birliği ve Türkiye İlişkileri dersi materyalleri
+**Avrupa Birliği – Türkiye İlişkileri** dersinin materyalleri ayrı bir sayfaya taşındı:
+[zaferguler-cloud/AB_Turkiye-Iliskileri](https://github.com/zaferguler-cloud/AB_Turkiye-Iliskileri)
